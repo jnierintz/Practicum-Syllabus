@@ -6,7 +6,7 @@
   <xi:include href="./docinfo.ptx" />
   <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
   <book>
-    <title>Framingham State University Department of Graduate and Continuing Education</title>
+    <title>Framingham State University Department of Graduate and Continuing Education </title>
 
     <subtitle>F25.CPSY.975.C01 - Mental Health Counseling Practicum 
 
