@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- This is the main course file for ... . It is used to generate all the public facing course materials so those can be hosted online.  -->
 <pretext xmlns:xi="http://www.w3.org/2001/XInclude">
   <!-- Include common macros etc: -->
   <xi:include href="./docinfo.ptx" />
@@ -8,9 +7,7 @@
   <book>
     <title>Framingham State University Department of Graduate and Continuing Education </title>
 
-    <subtitle>CPSY.975.C01 - Mental Health Counseling Practicum
-
-Fall 2026 </subtitle>
+    <subtitle>CPSY.975.C01 - Mental Health Counseling Practicum Fall 2026 </subtitle>
 
     <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
@@ -22,32 +19,21 @@ Fall 2026 </subtitle>
       <xi:include href="./syllabus/syllabus.ptx" />
 
       <!-- Other documents could go here, like a schedule, project description, etc. -->
-
     </chapter>
-
-    <chapter xml:id="course-notes">
-      <title>Course Notes</title>
+    <chapter xml:id="coursedescription">
+      <title>Course Description</title>
 
       <introduction>
         <p>
-          The following notes are intended to remind you what we covered each week.
-          They are not a substitute for attending class and not a substitute for reading the textbook.
+          An opportunity for supervised practicum field experience in mental health counseling. Guided by a cooperating Agency and University faculty, students participate in aspects of the counseling process which may include assessment, diagnosis and treatment, ethical considerations, and use of self in the counseling process. Connections between this practicum, the counseling internship, and the counseling field are discussed.  
         </p>
       </introduction>
-
-      <xi:include href="./notes/week01.ptx"/>
-      <xi:include href="./notes/week02.ptx"/>
-      <!-- etc. -->
-
-    </chapter>
-
-
-    <chapter xml:id="activities">
-      <title>In-Class Activities</title>
+    <chapter xml:id="note">
+      <title>Note</title>
 
       <introduction>
         <p>
-          These are copies of the in-class activities distributed during the semester.
+          This course fulfills the practicum requirement for licensure as a Mental Health Counselor in Massachusetts.  
         </p>
       </introduction>
 
