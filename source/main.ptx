@@ -28,12 +28,9 @@
     </chapter>
     <chapter xml:id="note">
       <title>Note</title>
-
-      <introduction>
         <p>
           This course fulfills the practicum requirement for licensure as a Mental Health Counselor in Massachusetts.  
         </p>
-      </introduction>
 
       <!-- Remove the example and replace with your own activities -->
       <xi:include href="./activities/00-sample-activity.ptx"/>
