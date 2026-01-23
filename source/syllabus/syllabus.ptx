@@ -1,81 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<section xml:id="syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="syllabus" xmlns:xi="http://www.w3.org/2001/XInclude"> 
   <title>Syllabus</title>
-
-  <introduction>
-    <p>
-      Welcome to what promises to be an exciting and fun semester of ...
-    </p>
-  </introduction>
-  <!-- Include chapters -->
   <subsection xml:id="sec-course-info">
     <title>Course Information</title>
 
     <p>
-      This is the syllabus for <term>course name (MATH xxx, section xxx)</term> for semester 20xx.
-      It is a x credit course.
-      <dl>
+      This is the syllabus for <term>Mental Health Counseling Practicum </term> for fall semester 2026.
+    </p>
+    
+    <dl>
       <li>
         <title>Instructor</title>
-
         <p>
           Prof.
-          Lastname, Office Location, <url href="mailto:prof.lastname@example.edu">prof.lastname@example.edu</url>.
+          Jodie Nierintz, Phone 978-491-9290, <url href="mailto:jnierintz@framingham.edu">jnierintz@framingham.edu</url>.
         </p>
       </li>
-
       <li>
-        <title>Student Hours</title>
-
+        <title>Office Hours</title>
         <p>
-          TBD
-        </p>
-
-        <p>
-          <alert>Important</alert>: I <em>want</em> to see you in student hours, and will happily make appointments with you outside of the regular hours.  I'm also available by email and will respond within 24 hours, usually much sooner.  There is little I enjoy more than discussing mathematics, so you are really doing me a favor by coming to see me.
+          Please email to set up an appt for office hours.
         </p>
       </li>
-
       <li>
-        <title>Class meets</title>
-
+        <title>Class Meets</title>
         <p>
-          course times and location.
+          Virtually on Zoom on Tuesday evenings from 6:30pm to 9:50pm. 
         </p>
       </li>
-
       <li>
         <title>Course Description</title>
-
         <p>
-          course description from catalog
+          An opportunity for supervised practicum field experience in mental health counseling. Guided by a cooperating Agency and University faculty, students participate in aspects of the counseling process which may include assessment, diagnosis and treatment, ethical considerations, and use of self in the counseling process. Connections between this practicum, the counseling internship, and the counseling field are discussed.  
         </p>
       </li>
-
       <li>
-        <title>Prerequisite</title>
-
+        <title>Prerequisites</title>
         <p>
-          list of prerequisites
+         CPSY 901 Theories of Psychotherapy and Counseling, CPSY 911 Orientation to Counseling Practice, CPSY 921 Professional Issues in Counseling and Mental Health, CPSY 925 Psychopathology, and permission of the Program Coordinator. 
         </p>
       </li>
-
       <li>
-        <title>Textbook and course materials</title>
-
+        <title>Required Text and Subscriptions</title>
         <p>
-          <pubtitle>textbook name</pubtitle>
-          by textbook author.
+          <pubtitle>Clinical Interviewing 7th edition</pubtitle>
+          by Sommers-Flanagan, J., and Sommers-Flanagan, R. ISBN-10 1119981980. PDF of full text will be posted in Canvas course for download. 
+          You WILL need to purchase a monthly subscription for Time2Track to track your practicum hours. Please note FSU does not offer a paid student subscription for this resource. Visit this website to purchase subscription and see Appendix A of this syllabus for further details https://time2track.com/.
         </p>
       </li>
-      </dl>
-    </p>
-
+    </dl>
 
     <paragraphs>
       <title>Course Overview</title>
-
       <p>
       </p>
     </paragraphs>
