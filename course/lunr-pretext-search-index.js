@@ -61,7 +61,97 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "",
   "title": "Appendix A",
-  "body": " Appendix A  This appendix contains the required directions for how to use the Time2Track system for logging practicum hours. Account Setup Set up your Time2Track account here Time2Track | Pricing. Do not enter a school name when signing up. FSU does not provide institutional accounts. You must subscribe individually to Time2Track and a school affiliation is not required. Each practicum student must maintain a detailed activity\/work log to document their practicum experiences. This log should reflect a total of 100 hours of practicum activities over the semester, broken down as follows: 40 hours of direct client contact 10 hours of individual supervision with an approved supervisor 5 hours of group supervision with an approved or university supervisor 10 hours of either additional group or individual supervision or a mix of either. Activity\/Work Log Overview A practicum activity\/work log is a structured and reflective record where students: Note the date and duration of each activity Provide brief descriptions (e.g., shadowed clinician, client phone call, session, paperwork, supervision, training) Why Timely Log Entries Matter Helps you stay organized and manage time effectively during practicum Develops professional documentation skills essential for your career Ensures accurate records for your licensure application Log Entry Frequency Log activities immediately after completing them or by the end of your practicum workday. If immediate entry isn’t possible, log activities at least three times per week. Confidentiality Requirement All logs must uphold confidentiality standards. Do not include identifying information about clients or participants. Activity Labeling in Time2Track (T2T) When logging activities in T2T, use the following labels to ensure accurate reporting: Direct Time (client contact) Group Supervision Individual Supervision Supervision Requirements LMHC Supervision: Students must log supervision hours with an LMHC-qualified supervisor to meet licensing requirements. Group Supervision: 1.5 hours of every seminar class count as group supervision—log this separately in T2T under \"Group Supervision.\" LMHC Tracking: Use a dedicated tab in T2T to track LMHC supervision hours. Tags in T2T: Use tags to provide specific details about each logged activity. Activity Log Format Each log entry must include: Date Start and End Time Activity Description (Include observations or key details) Submission and Review Submit both an Activity Summary and an Activity Detail log to your faculty supervisor monthly via email (submission deadlines are posted in Canvas). CC your practicum supervisor on all submissions. Reports must cover the entire month (e.g., January 1–January 31). Activity logs will be reviewed during class discussions and to monitor your progress. Final Report and Documentation At the end of the semester, complete the Time2Track Activity Summary Signature Page with your site supervisor. Ensure your final signed report is submitted to your faculty supervisor as required. How to Download a PDF in Time2Track If you're trying to download a PDF version of your Reports in Time2Track and aren't sure how—here’s a step-by-step guide! For Windows Users: Complete your report in Time2Track. Click on the Print icon (on my computer, it appears as \"Print Signature Page\"). A standard print window will open: Left side: Shows a preview of what will be printed. Right side: Displays print options. At the top of the right-side menu, find \"Destination.\" Click on it and select \"Save as PDF\" from the dropdown menu. The \"Print\" button at the bottom will now change to \"Save.\" Click \"Save.\" A window will pop up asking where to save the file. Choose your preferred location and click \"Save\" again. Done! Your PDF is now saved. Now email it to your professor and cc your site supervisor. For Mac Users: After clicking \"Print Signature Page,\" a print window opens. Look at the bottom left corner for a Save as PDF option. Click it, choose a location, and save your file. Important Note: Time2Track’s Help Guide doesn’t explain how to download a PDF for trainees with individual accounts. If you search \"download\" in their Help section, it only provides instructions for printing a paper copy to be signed.  "
+  "body": " Appendix A This appendix contains the required directions for how to use the Time2Track system for logging practicum hours. Account Setup  Set up your Time2Track account here Time2Track | Pricing. Do not enter a school name when signing up. FSU does not provide institutional accounts. You must subscribe individually to Time2Track and a school affiliation is not required.  Each practicum student must maintain a detailed activity\/work log to document their practicum experiences. This log should reflect a total of 100 hours of practicum activities over the semester, broken down as follows:   40 hours of direct client contact  10 hours of individual supervision with an approved supervisor  5 hours of group supervision with an approved or university supervisor  10 hours of either additional group or individual supervision or a mix of either.   Activity\/Work Log Overview  A practicum activity\/work log is a structured and reflective record where students:   Note the date and duration of each activity  Provide brief descriptions (e.g., shadowed clinician, client phone call, session, paperwork, supervision, training)   Why Timely Log Entries Matter   Helps you stay organized and manage time effectively during practicum  Develops professional documentation skills essential for your career  Ensures accurate records for your licensure application   Log Entry Frequency Log activities immediately after completing them or by the end of your practicum workday. If immediate entry isn’t possible, log activities at least three times per week. Confidentiality Requirement All logs must uphold confidentiality standards. Do not include identifying information about clients or participants. Activity Labeling in Time2Track (T2T) When logging activities in T2T, use the following labels to ensure accurate reporting:  Direct Time (client contact)  Group Supervision  Individual Supervision   Supervision Requirements   LMHC Supervision: Students must log supervision hours with an LMHC-qualified supervisor to meet licensing requirements.  Group Supervision: 1.5 hours of every seminar class count as group supervision—log this separately in T2T under \"Group Supervision.\"  LMHC Tracking: Use a dedicated tab in T2T to track LMHC supervision hours.  Tags in T2T: Use tags to provide specific details about each logged activity.   Activity Log Format Each log entry must include:  Date of Activity  Start and End Time  Activity Description (Include observations or key details)   Submission and Review Submit both an Activity Summary and an Activity Detail log to your faculty supervisor monthly via email (submission deadlines are posted in Canvas). CC your practicum supervisor on all submissions. Reports must cover the entire month (e.g., January 1–January 31). Activity logs will be reviewed during class discussions and to monitor your progress.  Final Report and Documentation At the end of the semester, complete the Time2Track Activity Summary Signature Page with your site supervisor. Ensure your final signed report is submitted to your faculty supervisor as required. How to Download a PDF in Time2Track If you're trying to download a PDF version of your Reports in Time2Track and aren't sure how—here’s a step-by-step guide! For Windows Users:   Log in to your Time2Track account.  Navigate to the \"Reports\" section.  Select the report you want to download as a PDF.  Click on the Print icon (on my computer, it appears as \"Print Signature Page\").   A standard print window will open:   Left side: Shows a preview of what will be printed.  Right side: Displays print options.  At the top of the right-side menu, find \"Destination.\"  Click on it and select \"Save as PDF\" from the dropdown menu.  The \"Print\" button at the bottom will now change to \"Save.\"  Click \"Save.\" A window will pop up asking where to save the file.  Choose your preferred location and click \"Save\" again.  Done! Your PDF is now saved. Now email it to your professor and cc your site supervisor.   For Mac Users:   Log in to your Time2Track account.  Navigate to the \"Reports\" section.  Select the report you want to download as a PDF.  Click on the Print icon (on my computer, it appears as \"Print Signature Page\").  After clicking \"Print Signature Page,\" a print window opens.  Look at the bottom left corner for a Save as PDF option.  Click it, choose a location, and save your file.   Done! Your PDF is now saved. Now email it to your professor and cc your site supervisor.  Important Note:   Time2Track’s Help Guide doesn’t explain how to download a PDF for trainees with individual accounts.  If you search \"download\" in their Help section, it only provides instructions for printing a paper copy to be signed.   "
+},
+{
+  "id": "appendixa-5",
+  "level": "2",
+  "url": "appendixa.html#appendixa-5",
+  "type": "List",
+  "number": "1",
+  "title": "",
+  "body": " 40 hours of direct client contact  10 hours of individual supervision with an approved supervisor  5 hours of group supervision with an approved or university supervisor  10 hours of either additional group or individual supervision or a mix of either.  "
+},
+{
+  "id": "appendixa-8",
+  "level": "2",
+  "url": "appendixa.html#appendixa-8",
+  "type": "List",
+  "number": "2",
+  "title": "",
+  "body": " Note the date and duration of each activity  Provide brief descriptions (e.g., shadowed clinician, client phone call, session, paperwork, supervision, training)  "
+},
+{
+  "id": "appendixa-10",
+  "level": "2",
+  "url": "appendixa.html#appendixa-10",
+  "type": "List",
+  "number": "3",
+  "title": "",
+  "body": " Helps you stay organized and manage time effectively during practicum  Develops professional documentation skills essential for your career  Ensures accurate records for your licensure application  "
+},
+{
+  "id": "appendixa-14",
+  "level": "2",
+  "url": "appendixa.html#appendixa-14",
+  "type": "List",
+  "number": "4",
+  "title": "",
+  "body": " Direct Time (client contact)  Group Supervision  Individual Supervision  "
+},
+{
+  "id": "appendixa-16",
+  "level": "2",
+  "url": "appendixa.html#appendixa-16",
+  "type": "List",
+  "number": "5",
+  "title": "",
+  "body": " LMHC Supervision: Students must log supervision hours with an LMHC-qualified supervisor to meet licensing requirements.  Group Supervision: 1.5 hours of every seminar class count as group supervision—log this separately in T2T under \"Group Supervision.\"  LMHC Tracking: Use a dedicated tab in T2T to track LMHC supervision hours.  Tags in T2T: Use tags to provide specific details about each logged activity.  "
+},
+{
+  "id": "appendixa-18",
+  "level": "2",
+  "url": "appendixa.html#appendixa-18",
+  "type": "List",
+  "number": "6",
+  "title": "",
+  "body": " Date of Activity  Start and End Time  Activity Description (Include observations or key details)  "
+},
+{
+  "id": "appendixa-23",
+  "level": "2",
+  "url": "appendixa.html#appendixa-23",
+  "type": "List",
+  "number": "7",
+  "title": "",
+  "body": " Log in to your Time2Track account.  Navigate to the \"Reports\" section.  Select the report you want to download as a PDF.  Click on the Print icon (on my computer, it appears as \"Print Signature Page\").  "
+},
+{
+  "id": "appendixa-25",
+  "level": "2",
+  "url": "appendixa.html#appendixa-25",
+  "type": "List",
+  "number": "8",
+  "title": "",
+  "body": " Left side: Shows a preview of what will be printed.  Right side: Displays print options.  At the top of the right-side menu, find \"Destination.\"  Click on it and select \"Save as PDF\" from the dropdown menu.  The \"Print\" button at the bottom will now change to \"Save.\"  Click \"Save.\" A window will pop up asking where to save the file.  Choose your preferred location and click \"Save\" again.  Done! Your PDF is now saved. Now email it to your professor and cc your site supervisor.  "
+},
+{
+  "id": "appendixa-27",
+  "level": "2",
+  "url": "appendixa.html#appendixa-27",
+  "type": "List",
+  "number": "9",
+  "title": "",
+  "body": " Log in to your Time2Track account.  Navigate to the \"Reports\" section.  Select the report you want to download as a PDF.  Click on the Print icon (on my computer, it appears as \"Print Signature Page\").  After clicking \"Print Signature Page,\" a print window opens.  Look at the bottom left corner for a Save as PDF option.  Click it, choose a location, and save your file.  "
+},
+{
+  "id": "appendixa-30",
+  "level": "2",
+  "url": "appendixa.html#appendixa-30",
+  "type": "List",
+  "number": "10",
+  "title": "",
+  "body": " Time2Track’s Help Guide doesn’t explain how to download a PDF for trainees with individual accounts.  If you search \"download\" in their Help section, it only provides instructions for printing a paper copy to be signed.  "
 },
 {
   "id": "sample-handout",
