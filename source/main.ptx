@@ -29,9 +29,7 @@
     <chapter xml:id="appendixa">
       <title>Appendix A</title>
   This appendix contains the required directions for how to use the Time2Track system for logging practicum hours.
-          <ol>
-            <li>Account Setup</li>
-          </ol> 
+            <em>Account Setup</em>
 
 <p>Set up your Time2Track account here <url href="https://time2track.com/pricing/"></url>. Do not enter a school name when signing up. FSU does not provide institutional accounts. You must subscribe individually to Time2Track and a school affiliation is not required.</p> 
 
@@ -47,94 +45,93 @@
 
 <p>A practicum activity/work log is a structured and reflective record where students: </p>
 
-  <p>Note the date and duration of each activity</p>
-  <p>Provide brief descriptions (e.g., shadowed clinician, client phone call, session, paperwork, supervision, training)</p>
+  <ul><li>Note the date and duration of each activity</li>
+  <li>Provide brief descriptions (e.g., shadowed clinician, client phone call, session, paperwork, supervision, training)</li></ul>
 
-<p>Why Timely Log Entries Matter</p>
+  <em>Why Timely Log Entries Matter</em>
 
-  <p>Helps you stay organized and manage time effectively during practicum</p>
-  <p>Develops professional documentation skills essential for your career</p>
-  <p>Ensures accurate records for your licensure application</p>
+  <ul><li>Helps you stay organized and manage time effectively during practicum</li>
+  <li>Develops professional documentation skills essential for your career</li>
+  <li>Ensures accurate records for your licensure application</li></ul>
 
-  <p>Log Entry Frequency</p>
+  <em>Log Entry Frequency</em>
 Log activities immediately after completing them or by the end of your practicum workday. If immediate entry isn’t possible, log activities at least three times per week. 
 
-<p>Confidentiality Requirement</p>
+<em>Confidentiality Requirement</em>
 
 All logs must uphold confidentiality standards. Do not include identifying information about clients or participants. 
 
-<p>Activity Labeling in Time2Track (T2T)</p>
+<em>Activity Labeling in Time2Track (T2T)</em>
 When logging activities in T2T, use the following labels to ensure accurate reporting: 
 
-  <p>Direct Time (client contact)</p>
-  <p>Group Supervision</p>
-  <p>Individual Supervision</p>
- 
-<p>Supervision Requirements</p>
+  <ul><li>Direct Time (client contact)</li>
+  <li>Group Supervision</li>
+  <li>Individual Supervision</li></ul>
 
-  <p>LMHC Supervision: Students must log supervision hours with an LMHC-qualified supervisor to meet licensing requirements. </p>
-  <p>Group Supervision: 1.5 hours of every seminar class count as group supervision—log this separately in T2T under "Group Supervision." </p>
-  <p>LMHC Tracking: Use a dedicated tab in T2T to track LMHC supervision hours. </p>
-  <p>Tags in T2T: Use tags to provide specific details about each logged activity. </p>
+<em>Supervision Requirements</em>
 
+  <ul><li>LMHC Supervision: Students must log supervision hours with an LMHC-qualified supervisor to meet licensing requirements. </li>
+  <li>Group Supervision: 1.5 hours of every seminar class count as group supervision—log this separately in T2T under "Group Supervision." </li>
+  <li>LMHC Tracking: Use a dedicated tab in T2T to track LMHC supervision hours. </li>
+  <li>Tags in T2T: Use tags to provide specific details about each logged activity. </li></ul>
 
-<p>Activity Log Format</p> 
+  <em>Activity Log Format</em>
 Each log entry must include: 
 
-  <p>Date of Activity</p>
-  <p>Start and End Time</p>
-  <p>Activity Description (Include observations or key details)</p>
+  <ul><li>Date of Activity</li>
+  <li>Start and End Time</li>
+  <li>Activity Description (Include observations or key details)</li></ul>
 
-<p>Submission and Review</p>
+<em>Submission and Review</em>
 
 Submit both an Activity Summary and an Activity Detail log to your faculty supervisor monthly via email (submission deadlines are posted in Canvas). CC your practicum supervisor on all submissions. Reports must cover the entire month (e.g., January 1–January 31). 
 
 <p>Activity logs will be reviewed during class discussions and to monitor your progress. </p>
 
 
-<p>Final Report and Documentation</p>
+<em>Final Report and Documentation</em>
 
 At the end of the semester, complete the Time2Track Activity Summary Signature Page with your site supervisor. Ensure your final signed report is submitted to your faculty supervisor as required. 
 
-How to Download a PDF in Time2Track 
+<em> How to Download a PDF in Time2Track </em>
 
 If you're trying to download a PDF version of your Reports in Time2Track and aren't sure how—here’s a step-by-step guide! 
 
 
-<p>For Windows Users: </p>
+<em>For Windows Users: </em>
 
-  <p>Log in to your Time2Track account.</p>
-  <p>Navigate to the "Reports" section.</p>
-  <p>Select the report you want to download as a PDF.</p>
-  <p>Click on the Print icon (on my computer, it appears as "Print Signature Page").</p>  
+  <ul><li>Log in to your Time2Track account.</li>
+  <li>Navigate to the "Reports" section.</li>
+  <li>Select the report you want to download as a PDF.</li>
+  <li>Click on the Print icon (on my computer, it appears as "Print Signature Page").</li></ul>
 
 <p>A standard print window will open: </p>
 
-  <p> Left side: Shows a preview of what will be printed. </p>
-  <p>Right side: Displays print options. </p>
-  <p>At the top of the right-side menu, find "Destination." </p>
-  <p>Click on it and select "Save as PDF" from the dropdown menu. </p>
-  <p>The "Print" button at the bottom will now change to "Save." </p>
-  <p>Click "Save." A window will pop up asking where to save the file. </p>
-  <p>Choose your preferred location and click "Save" again. </p>
-<p> Done! Your PDF is now saved. Now email it to your professor and cc your site supervisor. </p>
-
-
-<p>For Mac Users: </p>
-
-  <p>Log in to your Time2Track account.</p>
-  <p>Navigate to the "Reports" section.</p>
-  <p>Select the report you want to download as a PDF.</p>
-  <p>Click on the Print icon (on my computer, it appears as "Print Signature Page").</p>
-<p>After clicking "Print Signature Page," a print window opens. </p>
-<p>Look at the bottom left corner for a Save as PDF option. </p>
-<p>Click it, choose a location, and save your file. </p>
+  <ul><li>Left side: Shows a preview of what will be printed. </li>
+  <li>Right side: Displays print options. </li>
+  <li>At the top of the right-side menu, find "Destination." </li>
+  <li>Click on it and select "Save as PDF" from the dropdown menu. </li>
+  <li>The "Print" button at the bottom will now change to "Save." </li>
+  <li>Click "Save." A window will pop up asking where to save the file. </li>
+  <ul><li>Choose your preferred location and click "Save" again. </li></ul>
 
 <p> Done! Your PDF is now saved. Now email it to your professor and cc your site supervisor. </p>
 
-<p> Important Note:</p> 
-  <p> Time2Track’s Help Guide doesn’t explain how to download a PDF for trainees with individual accounts. </p>
-  <p>If you search "download" in their Help section, it only provides instructions for printing a paper copy to be signed. </p>
+<em>For Mac Users: </em>
+
+  <ul><li>Log in to your Time2Track account.</li>
+  <li>Navigate to the "Reports" section.</li>
+  <li>Select the report you want to download as a PDF.</li>
+  <li>Click on the Print icon (on my computer, it appears as "Print Signature Page").</li></ul>
+<ul><li>After clicking "Print Signature Page," a print window opens. </li>
+<li>Look at the bottom left corner for a Save as PDF option. </li>
+<li>Click it, choose a location, and save your file. </li></ul>
+
+<p> Done! Your PDF is now saved. Now email it to your professor and cc your site supervisor. </p>
+
+<em>Important Note:</em>
+  <ul><li>Time2Track’s Help Guide doesn’t explain how to download a PDF for trainees with individual accounts. </li>
+  <li>If you search "download" in their Help section, it only provides instructions for printing a paper copy to be signed. </li></ul>
   
 </chapter>
 
