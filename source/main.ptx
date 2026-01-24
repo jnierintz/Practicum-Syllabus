@@ -107,7 +107,7 @@ If you're trying to download a PDF version of your Reports in Time2Track and are
 
 <p>A standard print window will open: </p>
 
-  <ul><li>Left side: Shows a preview of what will be printed. </li>
+  <ul><li>Left side: Shows a preview of what will be printed. </li></ul>
   <li>Right side: Displays print options. </li>
   <li>At the top of the right-side menu, find "Destination." </li>
   <li>Click on it and select "Save as PDF" from the dropdown menu. </li>
@@ -132,7 +132,7 @@ If you're trying to download a PDF version of your Reports in Time2Track and are
 <em>Important Note:</em>
   <ul><li>Time2Track’s Help Guide doesn’t explain how to download a PDF for trainees with individual accounts. </li>
   <li>If you search "download" in their Help section, it only provides instructions for printing a paper copy to be signed. </li></ul>
-  
+
 </chapter>
 
     <chapter xml:id="handouts">
