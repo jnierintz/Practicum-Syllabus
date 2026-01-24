@@ -66,7 +66,7 @@ When logging activities in T2T, use the following labels to ensure accurate repo
   <item>Direct Time (client contact)</item>
   <item>Group Supervision</item>
   <item>Individual Supervision</item>
-
+</list> 
 <p>Supervision Requirements</p>
 <list>
   <item>LMHC Supervision: Students must log supervision hours with an LMHC-qualified supervisor to meet licensing requirements. </item>
@@ -98,12 +98,12 @@ If you're trying to download a PDF version of your Reports in Time2Track and are
 
 
 <p>For Windows Users: </p>
-List>
+<List>
   <item>Log in to your Time2Track account.</item>
   <item>Navigate to the "Reports" section.</item>
   <item>Select the report you want to download as a PDF.</item>
   <item>Click on the Print icon (on my computer, it appears as "Print Signature Page").</item>  
-
+</list>
 <item>A standard print window will open: </item>
 <list>
   <item> Left side: Shows a preview of what will be printed. </item>
