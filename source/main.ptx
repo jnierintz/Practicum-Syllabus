@@ -29,19 +29,19 @@
     <chapter xml:id="appendixa">
       <title>Appendix A</title>
   This appendix contains the required directions for how to use the Time2Track system for logging practicum hours.
-          <ul>
+          <ol>
             <li>Account Setup</li>
-          </ul> 
+          </ol> 
 
 <p>Set up your Time2Track account here <url href="https://time2track.com/pricing/"></url>. Do not enter a school name when signing up. FSU does not provide institutional accounts. You must subscribe individually to Time2Track and a school affiliation is not required.</p> 
 
 <p>Each practicum student must maintain a detailed activity/work log to document their practicum experiences. This log should reflect a total of 100 hours of practicum activities over the semester, broken down as follows: </p>
 
-    <p>40 hours of direct client contact</p>
-    <p>10 hours of individual supervision with an approved supervisor</p>
-    <p>5 hours of group supervision with an approved or university supervisor</p>
-    <p>10 hours of either additional group or individual supervision or a mix of either.</p>
-    <p>35 hours of other practicum-related activities (e.g., training, documentation, case conferences, observation, etc.)</p>
+    <ul><li>40 hours of direct client contact</li>
+    <li>10 hours of individual supervision with an approved supervisor</li>
+    <li>5 hours of group supervision with an approved or university supervisor</li>
+    <li>10 hours of either additional group or individual supervision or a mix of either.</li>
+    <li>35 hours of other practicum-related activities (e.g., training, documentation, case conferences, observation, etc.)</li></ul>
 <p> </p>
   <em>Activity/Work Log Overview</em>
 
