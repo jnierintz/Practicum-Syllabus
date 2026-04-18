@@ -23,7 +23,7 @@
         </p>
       </introduction>
     </chapter>
-    
+
      <chapter xml:id="assignments">
       <title>assignments</title>
 All assignments below should be completed prior to the start of the seminar
@@ -290,14 +290,78 @@ Each log entry must include:
   <li>If you search "download" in their Help section, it only provides instructions for printing a paper copy to be signed. </li></ul>
 
 </chapter>
+      <chapter xml:id="Homework">
+<worksheet>
+  <title>Recorded Role Play 1 (Client Introductions andConsent)</title>
+  <introduction> 
+    <p>
+      This assignment is designed to simulate the initial phase of a counseling session, focusing on client introductions and obtaining informed consent. Follow these instructions to successfully complete the role play:
+    </p>
+  </introduction>
+      <p>
+       Assignment Learning Ojective-To demonstrate your ability to establish rapport, introduce yourself as a counselor, explain the counseling process, and obtain informed consent from a mock client within a 10-15-minute time frame.
+      </p> 
+      <p>Preparation-</p>
+      <p>Understand the Assignment:
 
-       
-      <!-- Remove or comment out the sample and replace with your own homework -->
-      <xi:include href="./homework/sample-homework.ptx"/>
+The role play involves introducing yourself to a mock client and discussing informed consent.
 
-    
+You will be reviewed on professionalism, clarity, and adherence to assignment.</p>
 
-    <!-- Include additional chapters for other categories -->
+<p>Prepare a Script:
 
+Draft an outline or script for your introduction, including:
+
+Your name and role as the counselor.
+
+A brief description of the counseling process and why you're having the session today.
+
+Explanation of confidentiality and its limitations (e.g., harm to self/others, court orders).
+
+Invitation for the client to ask questions or voice concerns.</p>
+
+<p>Find a Partner:
+
+Arrange for a peer, family member, or friend to act as your mock client.
+
+Share basic background information about the “client” (e.g., name, reason for seeking counseling) to provide context for the role play.
+
+ Recording the Role Play
+
+Set Up Your Recording Environment:
+
+Choose a quiet, distraction-free location with good lighting and audio quality.
+
+Ensure the camera captures you from the waist up, maintaining a professional appearance.</p>
+
+<p>Conduct the Role Play:
+
+Start the recording by introducing the purpose of the session (e.g., “This is a demonstration of a 5-minute client introduction and informed consent discussion.”).
+
+Follow your script while remaining natural and conversational.</p>
+
+<p>Ensure the session includes:
+
+Warm and professional greeting.
+
+Explanation of your role as a counselor.
+
+Clear description of informed consent and confidentiality.
+
+Opportunity for the mock client to ask questions or confirm understanding.</p>
+
+<p>Wrap Up:
+
+Thank the mock client and provide a brief summary of what happens next (e.g., scheduling the next session, goals for future sessions).
+
+Conclude the session and stop the recording.
+
+Play recording in class for a peer review.
+      </p>
+  
+  </exercise>
+  
+</worksheet>
+</chapter>
     </book>
   </pretext>
