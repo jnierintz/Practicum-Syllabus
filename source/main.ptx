@@ -135,16 +135,17 @@ Each log entry must include:
 
 </chapter>
 
-    <chapter xml:id="handouts">
-      <title>Handouts</title>
-
-      <!-- Remove or comment out the sample and replace with your own handouts -->
-      <!-- You can also comment out the entire chapter on Handouts until you are ready to include them -->
-      <xi:include href="./handouts/sample-handout.ptx"/>
-    </chapter>
-
-    <chapter xml:id="homework">
-      <title>Homework</title>
+        <chapter xml:id="assignments">
+      <title>assignments</title>
+All assignments below should be completed prior to the start of the seminar
+Seminar 1- Work on Affiliation Agreement Due Week 2
+Seminar 2- Read Chapters 1-3 and turn in Time2Track reports for the prior month
+Seminar 3- Read Chapters 4-7, complete Learning Contract and complete Recorded Role Play #1 (client introductions and consent)
+Seminar 4- Reach Chapter 8, turn in Time2Track reports for the prior month, and complete Recorded Role Play #2 (Assessment Gathering) 
+Seminar 5- Read Chapters 9-11, review Canvas Documents related to Suicide Prevention and Assessment, review website for 988 Lifeline, complete process recording 1, and schedule practicum site visit for next month
+Seminar 6- Read Chapters 12-14, turn in Time2Track reports for prior month, complete Recorded Role Play #3 (Suicide Assessment), complete process recording 2, complete Self Evaluation
+Seminar 7- Turn in Reflection paper
+Seminar 8- Complete Time2Track reports for the prior month, complete final Site Evaluation, and turn in final Time2Track report with all practicum hours included
 
       <!-- Remove or comment out the sample and replace with your own homework -->
       <xi:include href="./homework/sample-homework.ptx"/>
