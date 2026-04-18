@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <handout xml:id="Course and Practicum Objectives>
-<title>Sample Handout: Derivative Rules</title>
+<title>Course and Practicum Objectives</title>
 
 <page>
   <paragraphs>
-    <title>Rules for specific types of functions</title>
+    <table>Objectives Practicum Students  
+
+Must Complete:</table>
 
     <dl workspace=".1in">
     <li>
