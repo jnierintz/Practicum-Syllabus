@@ -11,21 +11,177 @@
     <xi:include href="./frontmatter.ptx" />
     <chapter xml:id="course-documents">
       <title>Course Documents</title>
-
-      <!-- Course syllabus -->
       <xi:include href="./syllabus/syllabus.ptx" />
 
       <!-- Other documents could go here, like a schedule, project description, etc. -->
     </chapter>
     <chapter xml:id="coursedescription">
       <title>Course Description</title>
-
       <introduction>
         <p>
           An opportunity for supervised practicum field experience in mental health counseling. Guided by a cooperating Agency and University faculty, students participate in aspects of the counseling process which may include assessment, diagnosis and treatment, ethical considerations, and use of self in the counseling process. Connections between this practicum, the counseling internship, and the counseling field are discussed.  
         </p>
       </introduction>
     </chapter>
+    
+     <chapter xml:id="assignments">
+      <title>assignments</title>
+All assignments below should be completed prior to the start of the seminar
+Seminar 1- Work on Affiliation Agreement Due Week 2
+Seminar 2- Read Chapters 1-3 and turn in Time2Track reports for the prior month
+Seminar 3- Read Chapters 4-7, complete Learning Contract and complete Recorded Role Play #1 (client introductions and consent)
+Seminar 4- Reach Chapter 8, turn in Time2Track reports for the prior month, and complete Recorded Role Play #2 (Assessment Gathering) 
+Seminar 5- Read Chapters 9-11, review Canvas Documents related to Suicide Prevention and Assessment, review website for 988 Lifeline, complete process recording 1, and schedule practicum site visit for next month
+Seminar 6- Read Chapters 12-14, turn in Time2Track reports for prior month, complete Recorded Role Play #3 (Suicide Assessment), complete process recording 2, complete Self Evaluation
+Seminar 7- Turn in Reflection paper
+Seminar 8- Complete Time2Track reports for the prior month, complete final Site Evaluation, and turn in final Time2Track report with all practicum hours included
+</chapter>
+
+    <chapter xml:id="sec-course-policies">
+      <title>Course Policies</title>
+     <paragraphs>
+    <title>Attendance</title>
+
+    <p>Engaging in any of the following behaviors during active seminar time will result in loss of attendance/participation points:  
+
+Texting   
+
+Sending/opening email  
+
+Surfing the web  
+
+Any other type of cell phone use during class   
+
+Using laptop for activities other than as directed in class  
+
+Side conversations   
+
+Sleeping  
+
+Any behavior that is overly distracting to other students in the learning environment 
+By following these guidelines, you contribute to a professional and respectful online learning environment.   
+    </p>
+
+  </paragraphs>
+  <paragraphs>
+    <title>Professional Growth and Suitability Evaluation:   </title>
+        <p>Due to the sensitive nature of the duties and responsibilities a mental health counselor must perform, applicants are also periodically screened and evaluated for their professional suitability and growth. The University and the faculty associated with the Counseling Psychology program assume responsibility for ensuring that graduates of the program possess both the academic knowledge, and the personal attributes required of all people who aspire to be licensed professional counselors.   
+Therefore, students will be evaluated on suitability for continuation in the program throughout their program of study. At the conclusion of each course, the instructor will evaluate students on both academic competence and professional suitability. These evaluations may be used for one of the following:   
+
+  
+
+Admission criteria for the Counseling Psychology Program   
+
+Continuation of matriculated status in the program   
+
+  
+
+Students will be evaluated in content courses and application courses (i.e., practicum and internship experiences). At any time, a matriculated student who is judged to be in question for continuation in the program will be apprised of the specific deficiencies noted by the Professional Review Committee and may be allowed to continue in the program on a probationary basis. A second continuation evaluation will be conducted. If the student is still deemed to be deficient, the student will be disallowed from continuation in the Counseling Psychology program. Students who complete the initial two-year sequence of courses but are terminated from the licensure program may apply to the non-licensure track.   
+        </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Site Visits</title>
+
+    <p>Virtual or in person site visits will be conducted in November (unless special arrangements have been made) at a time convenient for the site supervisor, student, and university supervisor.  Virtual or in-person site visits may be arranged at other times during the semester at the site supervisor, student, and/or university supervisor's request.  
+
+  
+    </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Generative AI</title>
+
+    <p>You may use generative artificial intelligence (AI) tools (e.g., ChatGPT, Claude, Copilot, Gemini) in this course for limited purposes such as: 
+
+Brainstorming ideas 
+
+Outlining 
+
+Grammar/style checking 
+
+Clarifying concepts 
+
+However, AI tools may not be used to generate final drafts, complete full assignments, or replace your own critical thinking. If you use AI in any stage of your work, you are required to: 
+
+Acknowledge your use in a brief author’s note at the end of your assignment (e.g., “I used ChatGPT to generate sample interview questions, which I then edited and expanded on”). 
+
+Cite AI sources properly using APA format, following current recommendations: 
+
+Example APA citation (7th ed.): 
+OpenAI. (2025). ChatGPT (Aug 29 version) [Large language model]. https://chat.openai.com/ 
+
+Demonstrate your own contributions by integrating, analyzing, and applying material independently. 
+
+Failure to disclose the use of AI tools will be treated as plagiarism and an academic honesty violation (see policy below). 
+
+The instructor reserves the right to request drafts, conduct oral check-ins, or assign supplemental responses to verify original student work.
+    </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Academic Honesty Policy: </title>
+
+    <p>Integrity is essential to academic life. Consequently, students who enroll at Framingham State University agree to maintain high standards of academic honesty and scholarly practice. They shall be responsible for familiarizing themselves with the published university policies and procedures regarding academic honesty.   
+  
+Infractions of the Policy on Academic Honesty include, but are not limited to:  
+
+Plagiarism: claiming as one’s own work the published or unpublished literal or paraphrased work of another;  
+
+Cheating on exams, tests, quizzes, assignments, and papers, including the distribution or acceptance of these materials and other sources of information without the permission of the instructor(s);  
+
+Unauthorized collaboration with other individuals in the preparation of course assignments;  
+
+Submitting without authorization the same assignment for credit in more than one course;  
+
+Use of dishonest procedures in computer, laboratory, studio, or field work;  
+
+Misuse of the University’s technical and educational facilities either maliciously or for personal gain;  
+
+Falsification of forms used to document the academic record and to conduct the academic business of the University.  
+
+The enlistment of another individual or entity to complete one’s course work.  
+    </p>
+
+  </paragraphs>
+<paragraphs>
+    <title>Course Credit:</title>
+
+    <p>FSU adheres to the following definition of credit hour as published in the Code of Federal Regulations (CFR), Title 34, Part 600.2:  
+
+ 
+
+“Credit Hour: Except as provided in 34 CFR 668.8(k) and (l), a credit hour is an amount of work represented in intended learning outcomes and verified by evidence of student achievement that is an institutionally established equivalency that reasonably approximates not less than – 
+
+  
+
+(1) One hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for one semester or trimester hour of credit, or ten to twelve weeks for one quarter hour of credit, or the equivalent amount of work over a different amount of time; or  
+
+(2) At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practice, studio work, and other academic work leading to the award of credit hours.”
+</p>
+<paragraphs>
+    <title>U.S. Copyright Law:</title>
+
+    <p>Below is the FSU policy on use of published documents (consistent with the U.S. Federal policy):  
+“This course website may contain copyrighted materials that are used in compliance with U.S. Copyright Law. Under that law, materials may not be saved to your computer, revised, copied, or distributed without permission. They are to be used in support of instructional activity as part of this course only and shall be limited to the duration of the course, unless otherwise specified by the instructor or owner of the material. You may only download or print materials at the direction of your instructor who knows which materials are copyrighted and which are not.”
+    </p>
+    <paragraphs>
+    <title>Antiracism at FSU</title>
+        <p>At Framingham State University, faculty, staff, and students work together to sustain a learning, working, and living community free from hate, discrimination, harassment, and intolerance. We recognize the damaging effects of systemic racism—including policies, structures, and historic practices—on the experience and success of communities of color. Coming from diverse backgrounds and various levels of privilege, we can all affirm and engage in antiracist work.    
+
+Diversity of voices, and of minds, strengthens our ability to solve problems and to ask and answer questions about the world we share. As your instructor, I commit to upholding community values of inclusion, civility, accessibility, and mutual respect. I expect this class to commit to creating a community that affirms and welcomes all people from diverse backgrounds and experiences and supports the realization of everyone’s potential.  
+        </p>
+        <paragraphs>
+    <title>Accommodation Statement:</title>
+
+    <p>Framingham State University offers equal opportunities to all qualified students, including those with disabilities and impairments. The University is committed to making reasonable accommodations as are necessary to ensure that its programs and activities do not discriminate, or have the effect of discriminating, on the basis of disability.   
+
+  
+The Disability/Access Services Office serves students with learning and psychiatric disabilities and students with visual, mobility and hearing impairments. For further information about this, please contact Dr. LaDonna Bridges, Associate Dean of Academic Success, and Dean of CASA (Center for Academic Success and Achievement) at 508-626-4906 or lbridges@framingham.edu.  
+    </p>
     <chapter xml:id="appendixa">
       <title>Appendix A</title>
   This appendix contains the required directions for how to use the Time2Track system for logging practicum hours.
@@ -135,22 +291,11 @@ Each log entry must include:
 
 </chapter>
 
-        <chapter xml:id="assignments">
-      <title>assignments</title>
-All assignments below should be completed prior to the start of the seminar
-Seminar 1- Work on Affiliation Agreement Due Week 2
-Seminar 2- Read Chapters 1-3 and turn in Time2Track reports for the prior month
-Seminar 3- Read Chapters 4-7, complete Learning Contract and complete Recorded Role Play #1 (client introductions and consent)
-Seminar 4- Reach Chapter 8, turn in Time2Track reports for the prior month, and complete Recorded Role Play #2 (Assessment Gathering) 
-Seminar 5- Read Chapters 9-11, review Canvas Documents related to Suicide Prevention and Assessment, review website for 988 Lifeline, complete process recording 1, and schedule practicum site visit for next month
-Seminar 6- Read Chapters 12-14, turn in Time2Track reports for prior month, complete Recorded Role Play #3 (Suicide Assessment), complete process recording 2, complete Self Evaluation
-Seminar 7- Turn in Reflection paper
-Seminar 8- Complete Time2Track reports for the prior month, complete final Site Evaluation, and turn in final Time2Track report with all practicum hours included
-
+       
       <!-- Remove or comment out the sample and replace with your own homework -->
       <xi:include href="./homework/sample-homework.ptx"/>
 
-    </chapter>
+    
 
     <!-- Include additional chapters for other categories -->
 
