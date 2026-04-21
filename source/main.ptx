@@ -26,6 +26,7 @@
 
      <chapter xml:id="assignments">
       <title>assignments</title>
+      <p>
 All assignments below should be completed prior to the start of the seminar
 Seminar 1- Work on Affiliation Agreement Due Week 2
 Seminar 2- Read Chapters 1-3 and turn in Time2Track reports for the prior month
@@ -35,6 +36,7 @@ Seminar 5- Read Chapters 9-11, review Canvas Documents related to Suicide Preven
 Seminar 6- Read Chapters 12-14, turn in Time2Track reports for prior month, complete Recorded Role Play #3 (Suicide Assessment), complete process recording 2, complete Self Evaluation
 Seminar 7- Turn in Reflection paper
 Seminar 8- Complete Time2Track reports for the prior month, complete final Site Evaluation, and turn in final Time2Track report with all practicum hours included
+      </p>
 </chapter>
 
     <chapter xml:id="sec-course-policies">
@@ -292,7 +294,7 @@ Each log entry must include:
 
 </chapter>
       <chapter xml:id="Homework">
-<exercise>
+
   <title>Recorded Role Play 1 (Client Introductions andConsent)</title>
   <introduction> 
     <p>
@@ -378,9 +380,7 @@ Adherence to Time Frame: Keeping the role play within the 10 to 15-minute limit 
 
       </p>
   
-  </exercise>
   
-
 </chapter>
     </book>
   </pretext>
